@@ -1,0 +1,28 @@
+h3{
+  color: #34699a;
+}
+h1{
+  color: #34699a;
+}
+form :active{
+  color:#34699a;
+
+}
+img{
+  border-radius: 100%;
+}
+
+body{
+  background-color:#defcfc;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f0d9da;
+  border-width: 5px;
+  width: 5%;
+}
+
+.hover:hover{
+  background-color: powderblue;
+}
